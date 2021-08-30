@@ -1,7 +1,7 @@
 # Site settings
 title: Anish Kumar
 description: My Personal Website
-# baseurl: "/particle" # the subpath of your site, e.g. /blog
+baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://anish52.github.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
